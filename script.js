@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
+// @name         Neopets Inventory Quick Actions
+// @namespace    https://github.com/lsfgrd/neopets-inventory-quick-actions/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Userscript that adds new quick actions button to the inventory modal on Neopets.
+// @author       Lauro Figueiredo
 // @match        https://www.neopets.com/inventory.phtml
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=neopets.com
 // @grant        unsafeWindow
+// @license      MIT
 // ==/UserScript==
 
 (function () {

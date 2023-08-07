@@ -1,5 +1,8 @@
 # Neopets Inventory Quick Actions
 
+![image](https://github.com/lsfgrd/neopets-inventory-quick-actions/assets/9519976/f6017916-eca7-4898-8d3e-90cbf6ae143c)
+
+
 ## How to use
 1. You need the Tampermonkey extension:
 - [Chrome/Edge/Opera/Any Chromium-based browser](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)

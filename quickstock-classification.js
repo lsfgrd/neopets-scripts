@@ -735,6 +735,12 @@ const oneToFive = [
   "Orn Codestone Plushie",
   "Void Snowball",
   "Electro Sword",
+  "Golden Sun Chalice",
+  "Twisted Dark Dagger",
+  "Voidberry Potion",
+  "Amulet of Darkness",
+  "Doctor Top",
+  "Weighted Blanket",
 ];
 
 const fiveToTen = [
